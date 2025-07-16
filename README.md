@@ -1,7 +1,8 @@
-# SQL-Data-Cleaning-Layoffs-Project
-A full SQL data cleaning walkthrough using layoffs data
+
+
 
 # 🧹 SQL Data Cleaning Project – Layoffs Dataset
+A full SQL data cleaning walkthrough using layoffs data
 
 This project demonstrates how to clean a real-world dataset using SQL. The dataset used contains information about tech company layoffs and includes fields such as company, location, industry, and more.
 
